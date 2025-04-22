@@ -3,10 +3,16 @@
 ### 1.
 
 ```bash
-git clone
+git clone https://github.com/demurre/test-task-cypress.git
 ```
 
 ### 2.
+
+```bash
+cd test-task-cypress
+```
+
+### 3.
 
 ```bash
 pnpm i
